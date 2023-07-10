@@ -214,9 +214,9 @@
     align-items: center;
     gap: 20px;
 }
-hr {
-    color: white;
-    
+.hr {
+    margin-right: 20%;
+    margin-left: 20%;
 }
 .copyright {
     color: white;
@@ -224,4 +224,10 @@ hr {
     display: flex;
     justify-content: center;
     padding: 30px;
+    width: 100%;
+    text-align: center;
+    te
+}
+footer {
+    background-color: black ;
 }
